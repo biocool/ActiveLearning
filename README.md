@@ -1,5 +1,3 @@
-# ActiveLearning
-
 ### 🧪 Uncertainty Sampling Strategies for Binary Classification
 
 **Example Probabilities:**
